@@ -1,0 +1,9 @@
+﻿  Pracownik.cpp
+  Napis.cpp
+e:\viisualprojects\projekt\projekt\napis.cpp(30): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  main.cpp
+  ListaPracownikow.cpp
+  Data.cpp
+  Generating Code...
+  Projekt.vcxproj -> E:\VIisualProjects\Projekt\Debug\Projekt.exe
+  Projekt.vcxproj -> E:\VIisualProjects\Projekt\Debug\Projekt.pdb (Full PDB)
